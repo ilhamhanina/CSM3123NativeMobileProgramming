@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">BusinessCard</string>
-    <string name="name_surname">Ilham Hanina Madiha S63762</string>
-    <string name="business">Junior Android Developer</string>
-    <string name="phone_number">0123348634</string>
-    <string name="email_text">ilhamhanina@gmail.com</string>
-    <string name="share_text">ilhamhanina@android.com</string>
-</resources>
